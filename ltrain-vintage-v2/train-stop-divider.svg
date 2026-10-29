@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="70" viewBox="0 0 1500 70" role="img" aria-labelledby="title">
+<title id="title">Burgundy L-shaped train route divider</title>
+<path d="M20 15 V55 H1480" fill="none" stroke="#591630" stroke-width="2.5"/>
+<g fill="#591630">
+<circle cx="20" cy="15" r="7.5"/>
+<circle cx="20" cy="55" r="7.5"/>
+<circle cx="312" cy="55" r="7.5"/>
+<circle cx="604" cy="55" r="7.5"/>
+<circle cx="896" cy="55" r="7.5"/>
+<circle cx="1188" cy="55" r="7.5"/>
+<circle cx="1480" cy="55" r="7.5"/>
+</g>
+</svg>
